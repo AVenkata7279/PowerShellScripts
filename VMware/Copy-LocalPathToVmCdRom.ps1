@@ -3,8 +3,7 @@
 	This creates an ISO file based on a specified path, uploads this ISO file to a VMware
 	datastore and mounts the ISO file on a VM.
 .NOTES
-	Created on: 	7/14/2014
-	Created by: 	Adam Bertram
+
 	Filename:		Copy-LocalPathToVmCdRom.ps1
 .EXAMPLE
 	.\Copy-LocalPathToVmRdRom.ps1 -Folderpath c:\folder -Vm 'VM1' -DatatoreFolder 'VM1 Folder'
