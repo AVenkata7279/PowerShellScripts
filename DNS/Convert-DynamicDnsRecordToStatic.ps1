@@ -2,13 +2,6 @@
 .SYNOPSIS
 
 .NOTES
-	Created on: 	8/22/2014
-	Created by: 	Adam Bertram
-	Filename:		
-	Credits:		
-	Requirements:	
-	Todos:				
-.EXAMPLE
 	
 .EXAMPLE
 	
