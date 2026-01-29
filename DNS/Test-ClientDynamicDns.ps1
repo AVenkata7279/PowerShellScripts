@@ -17,8 +17,7 @@
 	via WMI.  It then waits a default of 10 seconds and checks the computer's DNS record at the server to see if the register DNS attempt
 	worked.  If, after the retry interval time elapses, the record's timestamp still hasn't been updated, the script will return a failure.
 .NOTES
-	Created on: 	8/19/2014
-	Created by: 	Adam Bertram
+
 	Filename:		Test-ClientDynamicDns.ps1
 .EXAMPLE
 	PS> .\Test-ClientDynamicDns.ps1 -Computername COMPUTER1 -RetryInterval 20
