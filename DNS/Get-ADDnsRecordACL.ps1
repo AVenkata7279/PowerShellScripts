@@ -2,8 +2,7 @@
 .SYNOPSIS
 	This script retrieves the ACL from an Active Directory-integrated DNS record
 .NOTES
-	Created on: 	8/5/2014
-	Created by: 	Adam Bertram
+
 	Filename:	Get-AdDnsRecordAcl.ps1
 .EXAMPLE
 	PS> .\Get-AdDnsRecordAcl.ps1 -Hostname 'SERVER1'
