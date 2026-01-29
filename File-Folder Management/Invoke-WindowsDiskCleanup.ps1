@@ -1,34 +1,4 @@
-#requires -Version 5
-
-<#PSScriptInfo
-
-.VERSION 1.1
-
-.GUID 0ef579e1-d89d-4e8a-9b9a-f07ab5af1084
-
-.AUTHOR Adam Bertram
-
-.COMPANYNAME Adam the Automator, LLC
-
-.COPYRIGHT 
-
-.TAGS 
-
-.LICENSEURI 
-
-.PROJECTURI 
-
-.ICONURI 
-
-.EXTERNALMODULEDEPENDENCIES 
-
-.REQUIREDSCRIPTS 
-
-.EXTERNALSCRIPTDEPENDENCIES 
-
-.RELEASENOTES
-
-.PRIVATEDATA 
+#requires -Version
 
 #>
 
