@@ -8,8 +8,7 @@
  
 	Once fixed, this then allows the computer again to successfully update it's record.
 .NOTES
-	Created on: 	10/3/2014
-	Created by: 	Adam Bertram
+
 	Filename:		Resolve-DynamicDnsRecordPermissionProblem.ps1
 .EXAMPLE
 	PS> .\Resolve-DynamicDnsRecordPermissionProblem.ps1 -Zone myzone.com 
