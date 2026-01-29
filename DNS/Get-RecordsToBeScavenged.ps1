@@ -6,8 +6,7 @@
 	This script will report on all dynamic DNS records in a particular DNS zone that
 	are at risk of being scavenged by the DNS scavenging process.
 .NOTES
-	Created on: 	8/22/2014
-	Created by: 	Adam Bertram
+
 	Filename:		Get-RecordsToBeScavenged.ps1
 	Credits:		
 	Requirements:	An AD-integrated DNS zone
