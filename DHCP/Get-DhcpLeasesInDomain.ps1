@@ -5,8 +5,6 @@
 	This script finds all DHCP servers in Active Directory, all scopes on all DHCP servers
 	and outputs all leases in all of those scopes
 .NOTES
-	Created on: 	12/10/2014
-	Created by: 	Adam Bertram
 	Filename:		Get-DhcpLeasesInDomain.ps1
 .EXAMPLE
 	PS> .\Get-DhcpLeasesInDomain.ps1
