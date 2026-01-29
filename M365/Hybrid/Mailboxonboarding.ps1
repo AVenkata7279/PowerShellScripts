@@ -15,13 +15,11 @@ requires -Module ActiveDirectory
   
 .NOTES  
     Name: O365-NewUserAccountCreation
-    Author: The Sysadmin Channel
     Version: 1.01
-    DateCreated: 2017-Apr-09
-    DateUpdated: 2017-Apr-09
+
   
 .LINK
-    https://thesysadminchannel.com/how-to-create-o365-mailboxes-hybrid-exchange/ -
+
   
   
 .EXAMPLE
